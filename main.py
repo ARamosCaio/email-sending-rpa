@@ -2,7 +2,7 @@ from email.message import EmailMessage
 import smtplib
 import imghdr
 
-email = 'caio.araujo.cvo@gmail.com'
+email = input('Digite o email: ')
 senha = input('Digite a senha do email: ')
 
 msg = EmailMessage()
