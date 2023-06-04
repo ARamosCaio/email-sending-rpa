@@ -8,5 +8,6 @@ Run the following code on the terminal
 ```shell
 python main.py
 ```
-then insert your email and password
+then insert your email and password on the terminal.
+
 
